@@ -25,4 +25,15 @@ FLOWCHART PRAKTIKUM 7
 
 ![Flowchart praktikum7-warna](https://github.com/user-attachments/assets/3e021f6e-6f39-4d84-8d27-a96a80ee6f96)
 
+cara kerja program
 
+1. Program meminta pengguna untuk memasukkan nama dan nilai.
+2. Setelah pengguna memasukkan data, program memanggil fungsi tambah() dan 
+   menambahkan data ke dalam daftar.
+3. Pengguna kemudian memilih opsi 2 untuk menampilkan data, dan program 
+   memanggil fungsi tampilkan(), mencetak semua data mahasiswa yang telah 
+   ditambahkan.
+4. Jika pengguna memilih opsi 3 untuk menghapus data, program meminta nama 
+   mahasiswa yang ingin dihapus dan memanggil fungsi hapus().
+5. Proses ini dapat diulang hingga pengguna memilih opsi 5 untuk keluar dari 
+   program.
