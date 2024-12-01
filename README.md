@@ -21,4 +21,8 @@ HASIL PRAKTIKUM 7
 ![hasil praktikum 7 3](https://github.com/user-attachments/assets/fe379c5d-6b90-45f4-a54a-d9e89e054c52)
 
 
+FLOWCHART PRAKTIKUM 7
+
+![Flowchart praktikum7-warna](https://github.com/user-attachments/assets/3e021f6e-6f39-4d84-8d27-a96a80ee6f96)
+
 
